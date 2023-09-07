@@ -6,7 +6,7 @@
 // Os e-books também devem registrar o formato, que pode ser ePub ou PDF. Desenvolva classes para 
 // livros físicos e e-books e inclua uma herança entre essas classes para agregar informações comuns.
 // Para testar o projeto, considere a seguinte classe principal:
-
+//gt
 public class App {
     public static void main(String[] args) {
         LivroFisico livro1 = new LivroFisico("Aventuras em Java", "João Autor");
