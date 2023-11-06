@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 public class AlunoDAO {
      ArrayList<Aluno> alunos = new ArrayList<>();
-     String arquivo = "C:\\Users\\Esther de Yeshua\\Downloads\\AP6\\AC6\\src\\arquivo.txt";
+     String arquivo = "arquivo.txt";
 
      public AlunoDAO(){
         this.alunos = new ArrayList<>();;
